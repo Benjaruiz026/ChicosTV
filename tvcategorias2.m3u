@@ -101,11 +101,5 @@ https://amg00627-banijay-amg00627c50-lg-mx-9948.playouts.now.amagi.tv/playlist/a
 https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
 #EXTINF:-1 group-title="Entretenimiento y Variedades",Latina Televisión PE
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?WebM3UCL
-#EXTINF:0 group-title="Deportes",TNT SPORTS
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0mo
-#EXTM3U
-#EXTINF:0 group-title="Deportes",TNT Sports Premium SD
-http://181.78.79.131:8000/play/a0q9
+
 
