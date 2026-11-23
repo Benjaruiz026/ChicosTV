@@ -1,0 +1,108 @@
+#EXTM3U
+#EXTINF:-1 group-title="Documentales y Cultura",Animal Planet
+http://181.225.73.159:8000/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Cinemax
+http://181.225.73.159:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="Documentales y Cultura",Discovery Channel
+http://181.225.73.159:8000/play/a0ck/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney Channel
+http://181.225.73.159:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney Jr
+http://181.225.73.159:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",HBO
+http://181.225.73.159:8000/play/a0br/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",HBO 2
+http://181.225.73.159:8000/play/a0bn/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",HBO Family
+http://181.225.73.159:8000/play/a0bq/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",HBO Plus
+http://181.225.73.159:8000/play/a0bo/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",HBO Xtreme SD
+http://181.225.73.159:8000/play/a0bp/index.m3u8
+#EXTINF:-1 group-title="Documentales y Cultura",History Channel
+http://181.225.73.159:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="Documentales y Cultura",National Geographic
+http://181.225.73.159:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Nick Jr
+http://181.225.73.159:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",STAR CHANNEL
+http://181.225.73.159:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Sony
+http://181.225.73.159:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",TCM
+http://181.225.73.159:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Documentales y Cultura",TLC
+http://181.225.73.159:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",TNT
+http://181.225.73.159:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Warner
+http://181.225.73.159:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",AXN HD
+http://181.225.96.99:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Baby TV
+http://181.225.96.99:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Cartoon Network HD
+http://181.225.96.99:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Cinecanal HD
+http://181.225.96.99:8000/play/a06y/index.m3u8
+#EXTINF:-1 group-title="Estilo de Vida y Hogar",Discovery H&H
+http://181.225.96.99:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Discovery Kids HD
+http://181.225.96.99:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Documentales y Cultura",History 2
+http://181.225.96.99:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Nickelodeon HD
+http://181.225.96.99:8000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Space HD
+http://181.225.96.99:8000/play/a074/index.m3u8
+#EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png" group-title="Infantiles",Bob Esponja 24/7
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="Películas y Series",El Chavo 24/7
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonTeen.us@LatAm" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" group-title="Películas y Series",Nickelodeon Teen
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+#EXTINF:-1 group-title="Entretenimiento y Variedades",TV+ CL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Entretenimiento y Variedades",TVN CL
+https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Entretenimiento y Variedades",TVN3 CL
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Noticias",Canal 24 Horas CL
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Entretenimiento y Variedades",Mega CL
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Entretenimiento y Variedades",CHV CL
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Entretenimiento y Variedades",Canal 13 CL
+https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Noticias",T13 CL
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Noticias",CNN Chile
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Documentales y Cultura",13 Cultura
+https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Estilo de Vida y Hogar",13 Cocina
+https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Entretenimiento y Variedades",13 Pop
+https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Entretenimiento y Variedades",13 Teleseries
+https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Entretenimiento y Variedades",13 Festival
+https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Estilo de Vida y Hogar",13 Realities
+https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Estilo de Vida y Hogar",13 Viajes
+https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Entretenimiento y Variedades",iCarly 24/7
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+#EXTINF:-1 tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction_400x200.png" group-title="Infantiles",Mr. Bean 24/7
+https://amg00627-banijay-amg00627c50-lg-mx-9948.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupmx-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 group-title="Radios",Radio Romántica
+https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
+#EXTINF:-1 group-title="Entretenimiento y Variedades",Latina Televisión PE
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?WebM3UCL
+#EXTINF:0 group-title="Deportes",TNT SPORTS
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mo
+
