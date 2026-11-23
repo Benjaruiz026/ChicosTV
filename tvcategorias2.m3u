@@ -105,4 +105,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0mo
+#EXTM3U
+#EXTINF:0 group-title="Deportes",TNT Sports Premium SD
+http://181.78.79.131:8000/play/a0q9
 
